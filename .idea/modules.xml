@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/configurationservice/configurationservice.iml" filepath="$PROJECT_DIR$/configurationservice/configurationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryservice/discoveryservice.iml" filepath="$PROJECT_DIR$/discoveryservice/discoveryservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/unisys.iml" filepath="$PROJECT_DIR$/.idea/unisys.iml" />
     </modules>
   </component>
