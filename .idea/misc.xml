@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/configurationservice/pom.xml" />
         <option value="$PROJECT_DIR$/discoveryservice/pom.xml" />
+        <option value="$PROJECT_DIR$/oauthservice/pom.xml" />
       </list>
     </option>
   </component>

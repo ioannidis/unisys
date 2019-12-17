@@ -6,19 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="configurationservice" />
         <module name="discoveryservice" />
+        <module name="oauthservice" />
+        <module name="configurationservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configurationservice" target="11" />
       <module name="discoveryservice" target="1.8" />
+      <module name="oauthservice" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="configurationservice" options="-parameters" />
       <module name="discoveryservice" options="-parameters" />
+      <module name="oauthservice" options="-parameters" />
     </option>
   </component>
 </project>
