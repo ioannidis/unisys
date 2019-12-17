@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/configurationservice/configurationservice.iml" filepath="$PROJECT_DIR$/configurationservice/configurationservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/discoveryservice/discoveryservice.iml" filepath="$PROJECT_DIR$/discoveryservice/discoveryservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayservice/gatewayservice.iml" filepath="$PROJECT_DIR$/gatewayservice/gatewayservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauthservice/oauthservice.iml" filepath="$PROJECT_DIR$/oauthservice/oauthservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/unisys.iml" filepath="$PROJECT_DIR$/.idea/unisys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
     </modules>
   </component>
 </project>
